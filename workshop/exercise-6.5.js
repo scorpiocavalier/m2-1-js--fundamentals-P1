@@ -9,3 +9,7 @@
 // ...
 
 // many other possibilities here.
+for(let num = 0; num <= 15; num++) {
+    let state = (num % 2 == 0) ? 'even' : 'odd';
+    console.log(`${num} is ${state}`);
+}
