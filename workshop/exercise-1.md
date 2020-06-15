@@ -4,7 +4,7 @@
 
 1. ( ) "I am a "Horse""
 2. ( ) "I 'prefer' ducks'
-3. ( ) 'Yes, duck is nice'
+3. (X) 'Yes, duck is nice'
 4. ( ) "Ah, but I\'m vegan!"
 5. ( ) 'You'll eat salad then'
 6. ( ) 'Yes I\'ll eat salad'
