@@ -11,3 +11,11 @@
 // _#_#_#_#
 // #_#_#_#_
 // _#_#_#_#
+
+let line = '#_#_#_#_';
+let reversedLine = line.substring(1) + '#';
+
+for(let i = 1; i <= 4; i++) {
+    console.log(line);
+    console.log(reversedLine);
+}
