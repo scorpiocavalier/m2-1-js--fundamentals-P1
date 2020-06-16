@@ -24,3 +24,16 @@
 // FizzBuzz
 // 16
 // ...
+
+for(let num = 1; num <= 100; num++) {
+    
+    let msg = '';
+    
+    if(num % 3 == 0)
+        msg += 'Fizz';
+    
+    if(num % 5 == 0)
+        msg += 'Buzz';
+    
+    console.log((msg === '') ? num : msg);
+}
